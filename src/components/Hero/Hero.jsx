@@ -1,13 +1,25 @@
 import React from "react";
+import Typewriter from "typewriter-effect";
 import "./Hero.css";
 
 const Hero = () => {
   return (
     <section id="hero" className="hero-container">
       <div className="hero-content">
-        <h2></h2>
+        <h2>Hi, my name is...</h2>
+        <h1>
+          <Typewriter
+            options={{
+              strings: ["Juan Castro"],
+              autoStart: true,
+              loop: true,
+              delay: 75, 
+              deleteSpeed: 100, 
+            }}
+          />
+        </h1>
         <p>
-          
+        I am a multimedia engineering student who is passionate about UX/UI, web development and the creation of multimedia content. If you want someone responsible, committed and willing to work, contact me.
         </p>
       </div>
 
