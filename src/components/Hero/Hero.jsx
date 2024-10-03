@@ -1,7 +1,6 @@
 import React from "react";
 import Typewriter from "typewriter-effect";
 import "./Hero.css";
-import Img1 from '../../assets/images/pp.png';
 
 const Hero = () => {
   return (

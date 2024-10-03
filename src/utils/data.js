@@ -29,37 +29,37 @@ export const SKILLS = [
     {
       title: "Clase3",
       link: "https://github.com/Rocazzz/clase3",
-      image: "public/images/3.PNG",
+      image: "/images/3.PNG",
     },
     {
       title: "Clase4",
       link: "https://github.com/edwinmgallego/clase-practica-css-jueves/tree/cas",
-      image: "public/images/4.PNG",
+      image: "/images/4.PNG",
     },
     {
       title: "Clase2",
       link: "https://github.com/Rocazzz/Clase2",
-      image: "public/images/2.PNG",
+      image: "/images/2.PNG",
     },
     {
       title: "Clase Virtual",
       link: "https://github.com/Rocazzz/clase_virtual",
-      image: "public/images/Viirtual.JPG",
+      image: "/images/Viirtual.JPG",
     },
     {
       title: "Clase10",
       link: "https://github.com/Rocazzz/Semana_10",
-      image: "public/images/6.JPG",
+      image: "/images/6.JPG",
     },
     {
       title: "Ejercicio Número Menor",
       link: "https://github.com/Rocazzz/ejercicio-_8",
-      image: "public/images/7.JPG",
+      image: "/images/7.JPG",
     },
     {
       title: "Ejercicio Contador",
       link: "https://github.com/Rocazzz/claseReact",
-      image: "public/images/8.JPG",
+      image: "/images/8.JPG",
     },
     
     
