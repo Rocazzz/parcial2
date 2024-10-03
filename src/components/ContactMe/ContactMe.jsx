@@ -9,17 +9,6 @@ const ContactMe = () => {
       <h5>Contact Me</h5>
 
       <div className="contact-content">
-        <div style={{flex: 1}}>
-          <ContactInfoCard
-            iconUrl="\images\gm.png"
-            text="camiloakarck@gmail.com"
-          />
-
-          <ContactInfoCard
-            iconUrl="\images\gh.png"
-            text="https://github.com/Rocazzz/Semana_10"
-          />
-        </div>
 
         <div style={{flex: 1}}>
           <ContactForm />

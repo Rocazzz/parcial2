@@ -3,4 +3,20 @@
     text-align: center;
     background: linear-gradient(90deg, #3D3072 0%, #423477 100%);
     padding: 1rem;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer-image-left {
+    position: absolute;
+    left: 1rem;
+    width: 40px; /* Ajusta el tamaño de la imagen */
+}
+
+.footer-image-right {
+    position: absolute;
+    right: 1rem;
+    width: 40px; /* Ajusta el tamaño de la imagen */
 }
