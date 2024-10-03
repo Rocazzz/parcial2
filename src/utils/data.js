@@ -44,7 +44,7 @@ export const SKILLS = [
     {
       title: "Clase Virtual",
       link: "https://github.com/Rocazzz/clase_virtual",
-      image: "/images/Viirtual.JPG",
+      image: "/images/Viirtual.png",
     },
     {
       title: "Clase10",
