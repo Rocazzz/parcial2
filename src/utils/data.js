@@ -1,7 +1,7 @@
 export const SKILLS = [
     {
       title: "Hard skills",
-      icon: "src/assets/images/hard-skills.png",
+      icon: "/images/hard-skills.png",
       skills: [
         { skill: "HTML5", percentage: "80%" },
         { skill: "CSS", percentage: "90%" },
