@@ -140,5 +140,6 @@
 @media (max-width: 1325px) {
   .nav-wrapper {
     padding: 0 2rem;
+    height: 100%;
   }
 }
