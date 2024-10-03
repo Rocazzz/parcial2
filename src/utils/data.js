@@ -56,5 +56,11 @@ export const SKILLS = [
       link: "https://github.com/Rocazzz/ejercicio-_8",
       image: "src/assets/images/7.JPG",
     },
+    {
+      title: "Ejercicio Contador",
+      link: "https://github.com/Rocazzz/claseReact",
+      image: "src/assets/images/8.JPG",
+    },
+    
     
   ];

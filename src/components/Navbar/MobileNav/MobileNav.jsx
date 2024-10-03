@@ -24,8 +24,10 @@ const MobileNav = ({isOpen, toggleMenu}) => {
                     <li>
                          <a className="menu-item">Contact Me</a>
                     </li>
-                    <button className="contact-btn" onClick={() => {}}>
-                         Hire Me
+                    <button className="contact-btn">
+                        <a href="src\assets\images\Hoja De Vida Juan Camilo Castro.pdf" download="HojaDeVida.pdf" style={{ color: 'inherit', textDecoration: 'none' }}>
+                            Hire Me
+                        </a>
                     </button>
                     </ul>
 

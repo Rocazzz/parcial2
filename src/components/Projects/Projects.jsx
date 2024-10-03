@@ -19,7 +19,7 @@ const Projects = () => {
 
   return (
     <section className="projects-section">
-      <h1>Proyectos</h1>
+      <h1>Projects</h1>
       <div className="carousel">
         <button className="carousel-button prev" onClick={handlePrevClick}>{"<"}</button>
         <div className="carousel-wrapper">
