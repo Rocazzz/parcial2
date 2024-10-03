@@ -1,7 +1,7 @@
 import React from "react";
 import Typewriter from "typewriter-effect";
 import "./Hero.css";
-import Img1 from '../../../public/images/pp.png';
+import Img1 from '../../assets/images/pp.png';
 
 const Hero = () => {
   return (
@@ -26,7 +26,7 @@ const Hero = () => {
 
       <div className="hero-img">
         <div>
-          <img src={Img1} alt="" />
+          <img src="https://i.imgur.com/BwLbW3k.jpeg" alt="" />
         </div>
         <div>
           <div className="tech-icon">
