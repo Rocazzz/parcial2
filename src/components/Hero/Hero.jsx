@@ -25,22 +25,22 @@ const Hero = () => {
 
       <div className="hero-img">
         <div>
-          <img src="src\assets\images\pp.png" alt="" />
+          <img src="\images\pp.png" alt="" />
         </div>
         <div>
           <div className="tech-icon">
           <a href="https://www.instagram.com/juancastrorck/" target="_blank" rel="noopener noreferrer">
-          <img src="src/assets/images/ig.png" alt="" />
+          <img src="/images/ig.png" alt="" />
           </a>
           </div>
           <div className="tech-icon">
           <a href="https://github.com/Rocazzz" target="_blank" rel="noopener noreferrer">
-          <img src="src/assets/images/gh.png" alt="" />
+          <img src="/images/gh.png" alt="" />
           </a>
           </div>
           <div className="tech-icon">
           <a href="https://www.linkedin.com/in/juan-camilo-castro-391565300/?trk=onsite_shorturl" target="_blank" rel="noopener noreferrer">
-          <img src="src/assets/images/ld.png" alt="" />
+          <img src="/images/ld.png" alt="" />
           </a>
           </div>
         </div>
