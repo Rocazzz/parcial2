@@ -29,22 +29,19 @@ const Hero = () => {
         </div>
         <div>
           <div className="tech-icon">
-            <img src="src\assets\images\js.png" alt="" />
+          <a href="https://www.instagram.com/juancastrorck/" target="_blank" rel="noopener noreferrer">
+          <img src="src/assets/images/ig.png" alt="" />
+          </a>
           </div>
           <div className="tech-icon">
-            <img src="src\assets\images\html.png" alt="" />
+          <a href="https://github.com/Rocazzz" target="_blank" rel="noopener noreferrer">
+          <img src="src/assets/images/gh.png" alt="" />
+          </a>
           </div>
           <div className="tech-icon">
-            <img src="src\assets\images\css.png" alt="" />
-          </div>
-          <div className="tech-icon">
-            <img src="src\assets\images\figma.png" alt="" />
-          </div>
-          <div className="tech-icon">
-            <img src="src\assets\images\node.png" alt="" />
-          </div>
-          <div className="tech-icon">
-            <img src="src\assets\images\react.png" alt="" />
+          <a href="https://www.linkedin.com/in/juan-camilo-castro-391565300/?trk=onsite_shorturl" target="_blank" rel="noopener noreferrer">
+          <img src="src/assets/images/ld.png" alt="" />
+          </a>
           </div>
         </div>
       </div>
